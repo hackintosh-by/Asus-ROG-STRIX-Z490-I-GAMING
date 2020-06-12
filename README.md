@@ -1,0 +1,5 @@
+# Asus-ROG-STRIX-Z490-I-GAMING
+
+intel i5 10500
+32 GB DDR4 FuryX 3200 Mhz
+970 Evo Plus 1tb
